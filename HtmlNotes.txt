@@ -1,0 +1,43 @@
+			                HTML
+
+TO CHANGE FONT ATTRIBUTES
+1. font color="red"
+2. face="Arial"
+3. size="16pt"
+4. bgcolor="blue" (to change background color)
+
+TO KEEP TEXT MOVING IN SOME DIRECTION
+1. marquee 
+2. marquee behavior="slide"
+3. marquee behavior="alternate"
+
+TYPES OF HEADING
+1. <h1>-<h6> (font size decreases)
+
+ORDERED LIST
+1. <ol type="1">
+2. <ol type="a">
+3. <li> (to add elements in list)
+ 
+UNORDERED LIST
+1. <ul type="boxed">
+2. <ul type="disc">
+3. <ul type="circle">
+
+FOR CREATING A TABLE
+1. <style>
+		thead{background-color:black;color:white}
+		tbody{background-color:black;color:white}
+		tfoot{background-color:black;color:white}
+    </style>
+
+2. <table border=1> to adjust thickness of the border of the table
+    <align="center"> for  alignment of the table
+    <bgcolor="lightblue"> background color of the table
+    <cellspacing=10>
+    <cellpadding=10>
+
+
+4 TYPES OF POSITION PROPERTIES AND SELECTORS
+
+2types of selectors #(id) and .(class)
